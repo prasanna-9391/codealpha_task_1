@@ -22,7 +22,7 @@ A simple and responsive **Image Gallery Mini Project** built using HTML, CSS, an
 
 ## 🔗 Live Demo
 
-file:///D:/code%20alpha%20frontend%20p1/Image-gallery-main/index.html
+(https://prasanna-9391.github.io/codealpha_task_1/)
 
 ## 👨‍💻 Author
 
