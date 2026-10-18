@@ -1,6 +1,6 @@
-# 🖼️ Image Gallery
+# 🖼️ project1
 
-A simple and responsive **Image Gallery Mini Project** built using HTML, CSS, and JavaScript. ✨
+A simple and responsive **codealpha Mini Project1** built using HTML, CSS, and JavaScript. ✨
 
 ## 🚀 Features
 
@@ -19,10 +19,11 @@ A simple and responsive **Image Gallery Mini Project** built using HTML, CSS, an
 
 1. 📥 Clone this repository.
 2. 📂 Open `index.html` in your browser.
+3. 🔗 click directly on live demo link you will be redirected to the image gallery
 
 ## 🔗 Live Demo
 
-(https://prasanna-9391.github.io/codealpha_task_1/)
+https://prasanna-9391.github.io/codealpha_task_1
 
 ## 👨‍💻 Author
 
